@@ -3,6 +3,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.androidlab">
 
+<!--    애플리케이션과 관련된 정보들 (앱 아이콘, 앱 이름, 테마 등) -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,10 +11,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidLab">
+
+<!--        액티비티 선언 -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
+<!--                앱 아이콘을 클릭했을 떄 실행되는 액티비티라는 의미 -->
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
