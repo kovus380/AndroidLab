@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidLab</string>
+    <string name="title">임용두가 원하는 것</string>
+    <string name="feature">지송이와의 사랑</string>
 </resources>
