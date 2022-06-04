@@ -6,6 +6,8 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_kakao.xml" value="0.10625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_linear.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_linearlayout.xml" value="0.16354166666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_sub.xml" value="0.10520833333333333" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_test2.xml" value="0.22" />
@@ -13,6 +15,11 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/ch6_view/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/layout/src/main/res/layout/activity_frame.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/layout/src/main/res/layout/activity_gravity.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/layout/src/main/res/layout/activity_grid.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/layout/src/main/res/layout/activity_main.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AndroidLab/layout/src/main/res/layout/activity_relative.xml" value="0.12083333333333333" />
       </map>
     </option>
   </component>
