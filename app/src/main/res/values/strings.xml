@@ -2,4 +2,13 @@
     <string name="app_name">AndroidLab</string>
     <string name="title">임용두가 원하는 것</string>
     <string name="feature">지송이와의 사랑</string>
+    <string name="long_text">구 여권 할인 발급은 지난 26일 국무회의에서 ‘일반여권의 표지 및 면수
+        변경에 따른 종전 일반여권 용지 사용에 관한 특례’가 통과되며 31일부터 시행됐다.
+        구 여권은 여권 내 표기된 유효기간까지 사용할 수 있지만,
+        유효기간은 기존보다 1개월 짧은 4년 11개월이다.
+        만약 차세대 전자여권 발급을 원한다면 기존대로
+        4만 2000원(5년)을 내고 신 여권을 발급 받으면 된다.
+        10년 유효기간의 신 여권 발급 수수료는 5만 3000원이다.</string>
+    <string name="select_singer">좋아하는 가수를 선택하세요~!</string>
+    <string name="select_brand">좋아하는 커피 브랜드를 선택하세요~!</string>
 </resources>
