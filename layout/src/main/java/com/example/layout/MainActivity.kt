@@ -7,7 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        setContentView(R.layout.activity_grid)
+        setContentView(R.layout.activity_keypad)
 //        val binding = ActivityFrameBinding.inflate(layoutInflater)
 //        setContentView(binding.root)
 //
