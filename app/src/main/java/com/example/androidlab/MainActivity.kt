@@ -2,6 +2,7 @@ package com.example.androidlab
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.androidlab.databinding.ActivityViewbindingBinding
 
 // 'AppCompatActivity' 를 상속받아 'MainActivity'라는 클래스 정의
 class MainActivity : AppCompatActivity() {
