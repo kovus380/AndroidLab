@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Resource</string>
-    <string name="text">오늘은 용산에 갔다</string>
+    <string name="text">Today I went to YongSan</string>
 </resources>
