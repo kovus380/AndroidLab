@@ -10,4 +10,10 @@
         <item name="android:textColor">#0000FF</item>
         <item name="android:background">@color/txt_bg_color</item>
     </style>
+
+    <style name="IntroText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
 </resources>

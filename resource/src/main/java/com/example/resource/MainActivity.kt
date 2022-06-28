@@ -1,14 +1,20 @@
 package com.example.resource
 
+import android.os.Build
 import android.os.Bundle
+import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
-import com.example.resource.databinding.ActivityMain2Binding
+import com.example.resource.databinding.ActivityTestBinding
 
 class MainActivity : AppCompatActivity() {
+    @RequiresApi(Build.VERSION_CODES.R)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val binding = ActivityMain2Binding.inflate(layoutInflater)
+        val binding = ActivityTestBinding.inflate(layoutInflater)
+//        val displayMetrics = DisplayMetrics()
+//        display?.getRealMetrics(displayMetrics)
+//        binding.TextView?.text = "widthPixels : ${displayMetrics.widthPixels}"
         setContentView(binding.root)
 //        binding.textView.text = getString(R.string.app_name)
 //        binding.textView.setTextColor(ResourcesCompat.getColor(resources, R.color.txt_bg_color, null))
