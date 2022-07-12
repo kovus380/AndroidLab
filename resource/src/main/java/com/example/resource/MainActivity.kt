@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
     @RequiresApi(Build.VERSION_CODES.R)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         val binding = ActivityTestBinding.inflate(layoutInflater)
 //        val displayMetrics = DisplayMetrics()
 //        display?.getRealMetrics(displayMetrics)
