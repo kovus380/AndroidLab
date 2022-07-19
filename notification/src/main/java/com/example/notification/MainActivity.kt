@@ -39,7 +39,11 @@ class MainActivity : AppCompatActivity() {
             Log.d("kkang", "11 - permission granted")
         } else {
             Log.d("kkang", "22 - permission denied")
-            ActivityCompat.requestPermissions(this, arrayOf<String>("android.permission.ACCESS_FINE_LOCATION"), 100)
+            ActivityCompat.requestPermissions(
+                this,
+                arrayOf<String>("android.permission.ACCESS_FINE_LOCATION"),
+                100
+            )
         }
 
 //        val myToast = Toast.makeText(this.applicationContext, "", Toast.LENGTH_SHORT)
@@ -95,7 +99,7 @@ class MainActivity : AppCompatActivity() {
 //                }
 //            })
 
-            setSingleChoiceItems(items, 1, object: DialogInterface.OnClickListener{
+            setSingleChoiceItems(items, 1, object : DialogInterface.OnClickListener {
                 override fun onClick(p0: DialogInterface?, p1: Int) {
                     Log.d("kkang", "${items[p1]} 이 선택되었습니다.")
                 }
@@ -114,7 +118,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     @RequiresApi(Build.VERSION_CODES.R)
-    private fun showToast(){
+    private fun showToast() {
         val toast = Toast.makeText(this, "종료 한 번 더", Toast.LENGTH_LONG)
         toast.addCallback(
             object : Toast.Callback() {
